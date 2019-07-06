@@ -1,0 +1,2 @@
+# OriginalKeyBoard_KeyMap
+自作キーボードのキーボードレイアウト
